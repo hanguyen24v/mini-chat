@@ -1,0 +1,41 @@
+# ===== Java: sản phẩm biên dịch =====
+bin/
+out/
+build/
+target/
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
+
+# ===== Eclipse =====
+.settings/
+.metadata/
+*.launch
+.externalToolBuilders/
+.symvers
+
+# ===== IntelliJ IDEA =====
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ===== VS Code / NetBeans =====
+.vscode/
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+
+# ===== Hệ điều hành / trình soạn thảo =====
+.DS_Store
+Thumbs.db
+*.swp
+*~
+*.log
+
+# ===== Tệp tạm / ghi chú không cần đưa vào dự án =====
+task.md
